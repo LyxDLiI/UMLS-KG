@@ -1,0 +1,751 @@
+[
+    {
+      "entity": "Blot hemorrhages",
+      "cui": "C0019080",
+      "connections": [
+        {
+          "entity": "Retinal Hemorrhage",
+          "cui": "C0035317",
+          "relationship": "type of"
+        },
+        {
+          "entity": "Retinal dot hemorrhage",
+          "cui": "C0474358",
+          "relationship": "type of"
+        }
+      ]
+    },
+    {
+      "entity": "Flame-shaped hemorrhages",
+      "cui": "C0474357",
+      "connections": [
+        {
+          "entity": "Retinal Hemorrhage",
+          "cui": "C0035317",
+          "relationship": "type of"
+        },
+        {
+          "entity": "Retinal",
+          "cui": "C0035298",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Nerve Fiber Layer",
+          "cui": "C0017130",
+          "relationship": "location in"
+        }
+      ]
+    },
+    {
+      "entity": "Diabetic Retinopathy",
+      "cui": "C0011884",
+      "connections": [
+        {
+          "entity": "Retinal Diseases",
+          "cui": "C0035309",
+          "relationship": "type of"
+        },
+        {
+          "entity": "Proliferative Diabetic Retinopathy",
+          "cui": "C0154830",
+          "relationship": "include"
+        },
+        {
+          "entity": "Nonproliferative Diabetic Retinopathy",
+          "cui": "C0004606",
+          "relationship": "include"
+        }
+      ]
+    },
+    {
+      "entity": "Proliferative Diabetic Retinopathy",
+      "cui": "C0154830",
+      "connections": [
+        {
+          "entity": "Retinal Diseases",
+          "cui": "C0035309",
+          "relationship": "type of"
+        }
+      ]
+    },
+    {
+      "entity": "Microaneurysms",
+      "cui": "C0333101",
+      "connections": [
+        
+        {
+          "entity": "Retinal capillaries",
+          "cui": "C0006901",
+          "relationship": "location in"
+        }
+      ]
+    },
+    {
+      "entity": "Macular edema",
+      "cui": "C0271051",
+      "connections": [
+        {
+          "entity": "Diabetic retinopathy",
+          "cui": "C0011884",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Retinal Diseases",
+          "cui": "C0035309",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Proliferative diabetic retinopathy",
+          "cui": "C0154830",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Nonproliferative diabetic retinopathy",
+          "cui": "C0004606",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Retinal Hemorrhage",
+          "cui": "C0035317",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Oral Hemorrhage",
+          "cui": "C0029163",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Intraoperative Hemorrhage",
+          "cui": "C0079027",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Retinal Arterial Macroaneurysm",
+          "cui": "C0423402",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Retinal Microaneurysm",
+          "cui": "C0154834",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Retinal capillaries",
+          "cui": "C0006901",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Macular retinal edema",
+          "cui": "C0271051",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Macular Edema, Cystoid",
+          "cui": "C0024440",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Edema",
+          "cui": "C0024440",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Blindness, Legal",
+          "cui": "C0271215",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Blindness",
+          "cui": "C0456909",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Prosopagnosia",
+          "cui": "C0234512",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Color blindness",
+          "cui": "C0242225",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Dyschromatopsia",
+          "cui": "C0858618",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Osteopetrosis",
+          "cui": "C0029454",
+          "relationship": "causes"
+        }
+      ]
+    },
+  
+    {
+      "entity": "Venous dilation",
+      "cui": "C0012359",
+      "connections": [
+        {
+          "entity": "Retinal Hemorrhage",
+          "cui": "C0035317",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Macular Edema, Cystoid",
+          "cui": "C0024440",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Macular Edema",
+          "cui": "C0271051",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Retinal Microaneurysm",
+          "cui": "C0154834",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Retinal exudates",
+          "cui": "C0240897",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Cotton wool spots",
+          "cui": "C0271053",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Proliferative retinopathy",
+          "cui": "C0339467",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Retinal Neovascularization",
+          "cui": "C0035320",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Arterial Occlusive Diseases",
+          "cui": "C0003838",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Macular thickening",
+          "cui": "C4072986",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Thickened",
+          "cui": "C0029454",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Osteopetrosis",
+          "cui": "C0205400",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Alkalemia",
+          "cui": "C0221106",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Aspartate Aminotransferase Increased",
+          "cui": "C0151904",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Increased (finding)",
+          "cui": "C5236002",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Increased",
+          "cui": "C5201148",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Mild non-proliferative diabetic retinopathy",
+          "cui": "C0730276",
+          "relationship": "manifestation of"
+        }
+      ]
+    },
+    {
+      "entity": "Intraretinal microvascular abnormality",
+      "cui": "C3714733",
+      "connections": [
+        
+        
+        {
+          "entity": "Retinal Hemorrhage",
+          "cui": "C0035317",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Macular Edema, Cystoid",
+          "cui": "C0024440",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Edema",
+          "cui": "C0013604",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Retinal exudates",
+          "cui": "C0240897",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Cotton wool spots",
+          "cui": "C0271053",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Blood Vessel",
+          "cui": "C0005847",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal",
+          "cui": "C0035331",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal capillaries",
+          "cui": "C0006901",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal nerve fiber layer",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal vein",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal artery",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal pigment epithelium",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal ganglion cell layer",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal inner nuclear layer",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal outer plexiform layer",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal outer nuclear layer",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal inner plexiform layer",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal inner nuclear layer",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal inner limiting membrane",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal outer limiting membrane",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal photoreceptor layer",
+          "cui": "C0035320",
+          "relationship": "location in"
+        },
+        {
+          "entity": "Retinal pigment epithelium",
+          "cui": "C0035320",
+          "relationship": "location in"
+        }
+      ]
+    },
+    {
+      "entity": "Neovascularization",
+      "cui": "C0027686",
+      "connections": [
+        {
+          "entity": "Proliferative diabetic retinopathy",
+          "cui": "C0154830",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Proliferative diabetic retinopathy",
+          "cui": "C0004606",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Proliferative diabetic retinopathy",
+          "cui": "C0339467",
+          "relationship": "manifestation of"
+        },
+        {
+          "entity": "Proliferative diabetic retinopathy",
+          "cui": "C0730276",
+          "relationship": "manifestation of"
+        }
+      ]
+    },
+    {
+      "entity": "Neovascularization elsewhere",
+      "cui": "C0027686",
+      "connections": [
+        {
+          "entity": "Retinal Neovascularization",
+          "cui": "C0035320",
+          "relationship": "type of"
+        },
+        {
+          "entity": "Choroidal Neovascularization",
+          "cui": "C0600518",
+          "relationship": "type of"
+        },
+        {
+          "entity": "Corneal Neovascularization",
+          "cui": "C0085109",
+          "relationship": "type of"
+        },
+        {
+          "entity": "Rubeosis iridis",
+          "cui": "C0154916",
+          "relationship": "type of"
+        }
+      ]
+    },
+    {
+      "entity": "neovascular glaucoma",
+      "cui": "C0017609",
+      "connections": [
+        {
+          "entity": "anterior chamber angle",
+          "cui": "C0003151",
+          "relationship": "causes"
+        },
+        {
+          "entity": "blind",
+          "cui": "C0456909",
+          "relationship": "causes"
+        },
+        {
+          "entity": "painful",
+          "cui": "C0030193",
+          "relationship": "causes"
+        }
+      ]
+    },
+    {
+      "entity": "anterior chamber angle",
+      "cui": "C0003151",
+      "connections": [
+        {
+          "entity": "neovascular glaucoma",
+          "cui": "C0017609",
+          "relationship": "causes"
+        }
+      ]
+    },
+    {
+      "entity": "blind",
+      "cui": "C0456909",
+      "connections": [
+        {
+          "entity": "neovascular glaucoma",
+          "cui": "C0017609",
+          "relationship": "causes"
+        }
+      ]
+    },
+    {
+      "entity": "painful",
+      "cui": "C0030193",
+      "connections": [
+        {
+          "entity": "neovascular glaucoma",
+          "cui": "C0017609",
+          "relationship": "causes"
+        }
+      ]
+    },
+    {
+      "entity": "Bleeding",
+      "cui": "C0019080",
+      "connections": [
+        {
+          "entity": "Proliferative diabetic retinopathy",
+          "cui": "C0154830",
+          "relationship": "causes"
+        },
+        {
+          "entity": "preretinal hemorrhage",
+          "cui": "C4316879",
+          "relationship": "causes"
+        },
+        {
+          "entity": "vitreous hemorrhage",
+          "cui": "C0042909",
+          "relationship": "causes"
+        }
+      ]
+    },
+    {
+      "entity": "preretinal hemorrhage",
+      "cui": "C4316879",
+      "connections": [
+        {
+          "entity": "Proliferative diabetic retinopathy",
+          "cui": "C0154830",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Bleeding",
+          "cui": "C0019080",
+          "relationship": "causes"
+        },
+        {
+          "entity": "vitreous hemorrhage",
+          "cui": "C0042909",
+          "relationship": "causes"
+        }
+      ]
+    },
+    {
+      "entity": "vitreous hemorrhage",
+      "cui": "C0042909",
+      "connections": [
+        {
+          "entity": "Proliferative diabetic retinopathy",
+          "cui": "C0154830",
+          "relationship": "causes"
+        },
+        {
+          "entity": "Bleeding",
+          "cui": "C0019080",
+          "relationship": "causes"
+        },
+        {
+          "entity": "preretinal hemorrhage",
+          "cui": "C4316879",
+          "relationship": "causes"
+        }
+      ]
+    },
+    {
+        "entity" : "Nonproliferative diabetic retinopathy",
+        "cui": "C0004606",
+        "connections" : [
+            {
+                "entity" : "Mild Nonproliferative Diabetic Retinopathy",
+                "cui": "C0730276",
+                "relationship" : "include"
+            },
+            {
+                "entity" : "Moderate Nonproliferative Diabetic Retinopathy",
+                "cui": "C5201148",
+                "relationship" : "include"
+            }
+        ]
+    },
+    {
+        "entity" : "Mild Nonproliferative Diabetic Retinopathy",
+        "cui": "C0730276",
+        "connections" : [
+            {
+                "entity" : "Intraretinal hemorrhage",
+                "cui": "C4531067",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Blot hemorrhages",
+                "cui": "C0019080",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Flame-shaped hemorrhages",
+                "cui": "C0474357",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Microaneurysms",
+                "cui": "C0333101",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Lipoprotein exudation",
+                "cui": "C0240897",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Macular edema",
+                "cui": "C0271051",
+                "relationship" : "clinical_signs"
+            }
+        ]
+    },
+    {
+        "entity" : "Moderate Nonproliferative Diabetic Retinopathy",
+        "cui": "C5201148",
+        "connections" : [
+            {
+                "entity" : "Lipoprotein exudation",
+                "cui": "C0240897",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Cotton-wool spots",
+                "cui": "C0271053",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Venous dilation and beading",
+                "cui": "C0012359",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Intraretinal microvascular abnormality",
+                "cui": "C3714733",
+                "relationship" : "clinical_signs"
+            }
+        ]
+    },
+    {
+        "entity" : "Nonproliferative diabetic retinopathy",
+        "cui": "C0004606",
+        "connections" : [
+            {
+                "entity" : "Mild Nonproliferative Diabetic Retinopathy",
+                "cui": "C0730276",
+                "relationship" : "include"
+            },
+            {
+                "entity" : "Moderate Nonproliferative Diabetic Retinopathy",
+                "cui": "C5201148",
+                "relationship" : "include"
+            },
+            {
+              "entity" : "Severe Nonproliferative Diabetic Retinopathy",
+              "cui": "C5201148",
+              "relationship" : "include"
+          }
+        ]
+    },
+    {
+        "entity" : "Mild Nonproliferative Diabetic Retinopathy",
+        "cui": "C0730276",
+        "connections" : [
+            {
+                "entity" : "Intraretinal hemorrhage",
+                "cui": "C4531067",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Blot hemorrhages",
+                "cui": "C0019080",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Flame-shaped hemorrhages",
+                "cui": "C0474357",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Microaneurysms",
+                "cui": "C0333101",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Lipoprotein exudation",
+                "cui": "C0240897",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Macular edema",
+                "cui": "C0271051",
+                "relationship" : "clinical_signs"
+            }
+        ]
+    },
+    {
+      "entity" : "Severe Nonproliferative Diabetic Retinopathy",
+      "cui": "C5201148",
+      "connections" : [
+          {
+              "entity" : "Intraretinal hemorrhage",
+              "cui": "C4531067",
+              "relationship" : "clinical_signs"
+          },
+          {
+              "entity" : "Diabetic retinal venous beading",
+              "cui": "C0423397",
+              "relationship" : "clinical_signs"
+          },
+          {
+              "entity" : "Intraretinal microvascular abnormality",
+              "cui": "C3714733",
+              "relationship" : "clinical_signs"
+          },
+          {
+              "entity" : "Macular edema",
+              "cui": "C0271051",
+              "relationship" : "clinical_signs"
+          }
+      ]
+    },
+    {
+        "entity" : "Moderate Nonproliferative Diabetic Retinopathy",
+        "cui": "C5201148",
+        "connections" : [
+            {
+                "entity" : "Lipoprotein exudation",
+                "cui": "C0240897",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Cotton-wool spots",
+                "cui": "C0271053",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Venous dilation and beading",
+                "cui": "C0012359",
+                "relationship" : "clinical_signs"
+            },
+            {
+                "entity" : "Intraretinal microvascular abnormality",
+                "cui": "C3714733",
+                "relationship" : "clinical_signs"
+            }
+        ]
+    }
+  ]
+  
